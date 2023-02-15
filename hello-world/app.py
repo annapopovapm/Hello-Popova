@@ -2,6 +2,6 @@ import time
 
 
 while True:
-    print("Hello, Popova")
+    print("Popova")
     time.sleep(1)
 
